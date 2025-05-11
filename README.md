@@ -14,10 +14,10 @@ After 3 years of experience in customer support, I pivoted into tech, fueled by 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 # 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharma8437&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sharma8437&theme=dark&hide_border=false" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharma8437&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="49%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sharma8437&theme=dark&hide_border=true" width="49%" />
+</p>
 
 
 
